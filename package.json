@@ -1,0 +1,32 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "App.js",
+  "scripts": {
+    "start":"npx parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugger-rana/react-learning.git"
+  },
+  "author": "Rana pratap singh patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugger-rana/react-learning/issues"
+  },
+  "homepage": "https://github.com/debugger-rana/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
